@@ -21,8 +21,11 @@ If you lose press Escape to return to the main Menu.
 ## Controls
 
 Press Enter to resume or begin the game.
+
 Use WASD to move the spaceship.
+
 Press spacebar to fire lasers.
+
 Press Escape to pause the game and escape again to quit.
 
 ## Run
