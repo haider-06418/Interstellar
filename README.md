@@ -2,6 +2,8 @@
 
 Interstellar is an endless running game where you shoot down enemy space ships. It is created in SDL2 using C++.
 
+Course: CS 224 Object Oriented Programming
+
 ## Rules
 
 The objective is to get the highest score possible. The health of your spaceship starts out as 8. If you get hit by an asteroid your health decreases by 2. If you get hit by a laser your health decreases by 1. If you collide with a spaceship your health decreases by 3.
