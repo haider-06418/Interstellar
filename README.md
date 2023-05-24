@@ -1,6 +1,4 @@
 # Intersteller SDL C++
-
-**What is Intersteller?**
 Interstellar is an endless running game where you shoot down enemy space ships. It is created in SDL2 using C++.
 
 
