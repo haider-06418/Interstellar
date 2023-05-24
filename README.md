@@ -39,4 +39,4 @@ All the scripts are well commented. Please start reading from main.cpp file whic
 
 ## Screens
 
-![Alt text](/images/Menu.png "Menu") ![Alt text](/images/Ganeplay.png "Gameplay)
+![Alt text](/images/Menu.PNG "Menu") ![Alt text](/images/Gameplay.PNG "Gameplay)
