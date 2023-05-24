@@ -2,7 +2,7 @@
 
 Interstellar is an endless running game where you shoot down enemy space ships. It is created in SDL2 using C++.
 
-Course: CS 224 Object Oriented Programming
+Course: CS 224 Object Oriented Programming(Final Project)
 
 ## Implementation
 
